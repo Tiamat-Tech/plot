@@ -34,7 +34,7 @@ export class Link extends Mark {
         {name: "title", value: title, optional: true},
         {name: "stroke", value: vstroke, scale: "color", optional: true},
         {name: "strokeOpacity", value: vstrokeOpacity, scale: "opacity", optional: true},
-        {name: "strokeWidth", value: vstrokeWidth, optional: true},
+        {name: "strokeWidth", value: vstrokeWidth, optional: true}
       ],
       options
     );
